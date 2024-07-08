@@ -65,6 +65,7 @@ h1 {
     display: flex;
     background-color: #fff;
     flex-direction: column;
+    margin: 20px;
 }
 .div_1{
     display: flex;
