@@ -42,7 +42,6 @@ function emailValidation(form) {
             element.remove();  // Elimina el mensaje después de 3 segundos
             emailConfirmInput.style.backgroundColor = "";
         }, 3000);
-        
         return false;
     }
     return true;
